@@ -1,0 +1,6 @@
+{
+  "name": "AWS AI - Autonomous Cloud Engineer",
+  "description": "Enterprise-grade autonomous cloud engineer designed to manage AWS cloud infrastructure 24/7 with strict Autonomy Matrix rules and approval protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
